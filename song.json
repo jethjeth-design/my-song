@@ -1,0 +1,16 @@
+[
+  {
+    "id": "song_1",
+    "title": "Amazing Grace",
+    "artist": "John Newton",
+    "remoteAudioUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/kalantahon-downloads/main/amazing_grace.mp3",
+    "lyrics": "[Verse 1]\nAmazing grace how sweet the sound\nThat saved a wretch like me...\n\n[Chorus]\nI once was lost, but now am found..."
+  },
+  {
+    "id": "song_2",
+    "title": "How Great Thou Art",
+    "artist": "Carl Boberg",
+    "remoteAudioUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/kalantahon-downloads/main/how_great.mp3",
+    "lyrics": "[Verse 1]\nO Lord my God, when I in awesome wonder..."
+  }
+]
