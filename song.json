@@ -3,14 +3,52 @@
     "id": "song_1",
     "title": "Mananatili",
     "artist": "Dinjimeel Rye & Larah Claire",
-    "remoteAudioUrl": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Mananatili__Still__Karaoke___Minus-One___Instrumental(48k).mp3",
+    "remoteAudioUrl": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Mananatili(360p).mp4",
     "lyrics": "[Verse 1]\nIkaw lamang Panginoon\nKaagapay saan man naroon\n\n[Chorus]\nSuliranin man ay dumating\nIkaw lamang oh Dios ang sasambahin\nPanginoon ko sa'Yo lamang\nMananatili kailan paman\n\n[Verse 2]\nKapahingahan sa'Yo nakamtan\nKapangyarihan Ikaw ang pinagmulan\n\n[Chorus]\nSuliranin man ay dumating\nIkaw lamang oh Dios ang sasambahin\nPanginoon ko sa'Yo lamang\nMananatili kailan paman"
-  },
+  }
+  
   {
-    "id": "song_2",
-    "title": "How Great Thou Art34345",
-    "artist": "Carl Boberg",
-    "remoteAudioUrl": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/how_great.mp3",
-    "lyrics": "[Verse 1]\nO Lord my God, when I in awesome wonder..."
+    "id": "Dungog Ug Himaya",
+    "title": "Unknown",
+    "artist": "John Newton",
+    "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Dungog_Ug_Himaya(360p).mp4",
+    "description": "A beautiful worship song about God's unwavering presence.",
+    "lyrics": "[Verse 1]\nIkaw lamang Panginoon\nKaagapay saan man naroon\n\n[Chorus]\nSuliranin man ay dumating\nIkaw lamang oh Dios ang sasambahin\nPanginoon ko sa'Yo lamang\nMananatili kailan paman\n\n[Verse 2]\nKapahingahan sa'Yo nakamtan\nKapangyarihan Ikaw ang pinagmulan\n\n[Chorus]\nSuliranin man ay dumating\nIkaw lamang oh Dios ang sasambahin\nPanginoon ko sa'Yo lamang\nMananatili kailan paman"
+  }
+
+  {
+    "id": "song_3",
+    "title": "Lilim",
+    "artist": "Scusta Clee",
+    "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Lilim(144p).mp4",
+    "description": "A beautiful worship song about God's unwavering presence.",
+    "lyrics": "[Verse 1]\nIkaw lamang Panginoon\nKaagapay saan man naroon..."
+  }
+
+  {
+    "id": "song_4",
+    "title": "THROUGH IT ALL",
+    "artist": "Unknown",
+    "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/THROUGH_IT_ALL(144p).mp4",
+    "description": "A beautiful worship song about God's unwavering presence.",
+    "lyrics": "[Verse 1]\nIkaw lamang Panginoon\nKaagapay saan man naroon..."
+  }
+
+  {
+    "id": "song_5",
+    "title": "Kabutihan Ng Diyos",
+    "artist": "Unknown",
+    "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Kabutihan_ng_Diyos(360p).mp4",
+    "description": "A beautiful worship song about God's unwavering presence.",
+    "lyrics": "[Verse 1]\nIkaw lamang Panginoon\nKaagapay saan man naroon..."
+  }
+
+    {
+    "id": "song_6",
+    "title": "GiveThanks",
+    "artist": "Unknown",
+    "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Give_Thanks(360p).mp4",
+    "description": "A beautiful worship song about God's unwavering presence.",
+    "lyrics": "[Verse 1]\nIkaw lamang Panginoon\nKaagapay saan man naroon..."
   }
 ]
