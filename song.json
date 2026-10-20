@@ -10,7 +10,7 @@
   {
     "id": "song_2",
     "title": "Dungog Ug Himaya",
-    "artist": "John Newton",
+    "artist": "Bisaya Christian Song",
     "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Dungog_Ug_Himaya(360p).mp4",
     "description": "A beautiful worship song about God's unwavering presence.",
     "lyrics": "[Verse 1]\nIkaw lamang Panginoon\nKaagapay saan man naroon\n\n[Chorus]\nSuliranin man ay dumating\nIkaw lamang oh Dios ang sasambahin\nPanginoon ko sa'Yo lamang\nMananatili kailan paman\n\n[Verse 2]\nKapahingahan sa'Yo nakamtan\nKapangyarihan Ikaw ang pinagmulan\n\n[Chorus]\nSuliranin man ay dumating\nIkaw lamang oh Dios ang sasambahin\nPanginoon ko sa'Yo lamang\nMananatili kailan paman"
@@ -25,8 +25,8 @@
   },
   {
     "id": "song_4",
-    "title": "THROUGH IT ALL",
-    "artist": "Unknown",
+    "title": "THROUGH IT ALL Bisaya Version",
+    "artist": "Ruth Salas",
     "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/THROUGH_IT_ALL(144p).mp4",
     "description": "A beautiful worship song about God's unwavering presence.",
     "lyrics": "[Verse 1]\nIkaw lamang Panginoon\nKaagapay saan man naroon\n\n[Chorus]\nSuliranin man ay dumating\nIkaw lamang oh Dios ang sasambahin\nPanginoon ko sa'Yo lamang\nMananatili kailan paman"
@@ -34,14 +34,14 @@
   {
     "id": "song_5",
     "title": "Kabutihan Ng Diyos",
-    "artist": "Unknown",
+    "artist": "Christian Song",
     "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Kabutihan_ng_Diyos(360p).mp4",
     "description": "A beautiful worship song about God's unwavering presence.",
     "lyrics": "[Verse 1]\nIkaw lamang Panginoon\nKaagapay saan man naroon\n\n[Chorus]\nSuliranin man ay dumating\nIkaw lamang oh Dios ang sasambahin\nPanginoon ko sa'Yo lamang\nMananatili kailan paman"
   },
   {
     "id": "song_6",
-    "title": "Give Thanks",
+    "title": "Tayo'y Magpasalamat",
     "artist": "Unknown",
     "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Give_Thanks(360p).mp4",
     "description": "A beautiful worship song about God's unwavering presence.",
