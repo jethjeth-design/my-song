@@ -5,7 +5,7 @@
     "artist": "Dinjimeel Rye & Larah Claire",
     "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Mananatili(360p).mp4",
     "description": "A beautiful, gentle worship song declaring that despite the trials and storms of life, we will remain faithful and dwell in the presence of God.",
-    "lyrics": "[Verse 1]\nIkaw lamang Panginoon\nKaagapay saan man naroon\n\n[Chorus]\nSuliranin man ay dumating\nIkaw lamang oh Dios ang sasambahin\nPanginoon ko sa'Yo lamang\nMananatili kailan paman\n\n[Verse 2]\nKapahingahan sa'Yo nakamtan\nKapangyarihan Ikaw ang pinagmulan\n\n[Chorus]\nSuliranin man ay dumating\nIkaw lamang oh Dios ang sasambahin\nPanginoon ko sa'Yo lamang\nMananatili kailan paman",
+    "lyrics": "[Verse 1]\nIkaw lamang Panginoon\nKaagapay saan man naroon\n\n[Chorus]\nSuliranin man ay dumating\nIkaw lamang oh Dios ang sasambahin\nPanginoon ko sa'Yo lamang\nMananatili kailan paman\n\n[Verse 2]\nKapahingahan sa'Yo nakamtan\nKapangyarihan Ikaw ang pinagmulan\n\n[Chorus]\nSuliranin man ay dumating\nIkaw lamang oh Dios ang sasambahin\nPanginoon ko sa'Yo lamang\nMananatili kailan paman\n\n[Chorus]\nSuliranin man ay dumating\nIkaw lamang oh Dios ang sasambahin\nPanginoon ko sa'Yo lamang\nMananatili kailan paman",
     "timestamps": [
       {"line": "Ikaw lamang Panginoon", "time": "00:15"},
       {"line": "Kaagapay saan man naroon", "time": "00:22"},
@@ -18,7 +18,11 @@
       {"line": "Suliranin man ay dumating", "time": "02:00"},
       {"line": "Ikaw lamang oh Dios ang sasambahin", "time": "02:07"},
       {"line": "Panginoon ko sa'Yo lamang", "time": "02:14"},
-      {"line": "Mananatili kailan paman", "time": "02:21"}
+      {"line": "Mananatili kailan paman", "time": "02:21"},
+      {"line": "Suliranin man ay dumating", "time": "02:40"},
+      {"line": "Ikaw lamang oh Dios ang sasambahin", "time": "02:47"},
+      {"line": "Panginoon ko sa'Yo lamang", "time": "02:54"},
+      {"line": "Mananatili kailan paman", "time": "03:01"}
     ]
   },
   {
@@ -27,22 +31,40 @@
     "artist": "Victory Worship",
     "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Lilim(144p).mp4",
     "description": "A powerful Filipino worship anthem. It speaks of finding perfect peace, rest, and protection under the shadow (lilim) of the Almighty.",
-    "lyrics": "[Verse 1]\nPanginoon, ang nais ko\nKagandahan Mo ay pagmasdan\nAng pag-ibig Mo, sa 'ki'y tugon\nKailanma'y 'di pababayaan\n\n[Pre-Chorus]\nSa 'Yo lamang matatagpuan\nSa 'Yo lamang\n\n[Chorus]\nMananatili sa Iyong lilim\nAt sasambahin Ka sa dakong lihim\nMananatili sa Iyong lilim\nNang masumpungan Ka sa dakong lihim\n\n[Verse 2]\nPanginoon, ang ngalan Mo\nAy kalinga at sandigan ko\n'Di magbabago, pangako Mo\nSalita Mo'y panghahawakan\n\n[Pre-Chorus]\nSa 'Yo lamang matatagpuan\nSa 'Yo lamang\n\n[Chorus]\nMananatili sa Iyong lilim\nAt sasambahin Ka sa dakong lihim\nMananatili sa Iyong lilim\nNang masumpungan Ka sa dakong lihim\n\n[Bridge]\nAng pagpuri ko ay tanging sa 'Yo\nSa 'Yo lamang iniaalay\nO, Panginoon, ang puso ko\nSa 'Yo magpakailanman",
+    "lyrics": "[Verse 1]\nPanginoon, ang nais ko\nKagandahan Mo ay pagmasdan\nAng pag-ibig Mo, sa 'ki'y tugon\nKailanma'y 'di pababayaan\n\n[Pre-Chorus]\nSa 'Yo lamang matatagpuan\nSa 'Yo lamang\n\n[Chorus]\nMananatili sa Iyong lilim\nAt sasambahin Ka sa dakong lihim\nMananatili sa Iyong lilim\nNang masumpungan Ka sa dakong lihim\n\n[Verse 2]\nPanginoon, ang ngalan Mo\nAy kalinga at sandigan ko\n'Di magbabago, pangako Mo\nSalita Mo'y panghahawakan\n\n[Pre-Chorus]\nSa 'Yo lamang matatagpuan\nSa 'Yo lamang\n\n[Chorus]\nMananatili sa Iyong lilim\nAt sasambahin Ka sa dakong lihim\nMananatili sa Iyong lilim\nNang masumpungan Ka sa dakong lihim\n\n[Bridge]\nAng pagpuri ko ay tanging sa 'Yo\nSa 'Yo lamang iniaalay\nO, Panginoon, ang puso ko\nSa 'Yo magpakailanman\n\n[Bridge]\nAng pagpuri ko ay tanging sa 'Yo\nSa 'Yo lamang iniaalay\nO, Panginoon, ang puso ko\nSa 'Yo magpakailanman\n\n[Chorus]\nMananatili sa Iyong lilim\nAt sasambahin Ka sa dakong lihim\nMananatili sa Iyong lilim\nNang masumpungan Ka sa dakong lihim",
     "timestamps": [
       {"line": "Panginoon, ang nais ko", "time": "00:18"},
       {"line": "Kagandahan Mo ay pagmasdan", "time": "00:25"},
       {"line": "Ang pag-ibig Mo, sa 'ki'y tugon", "time": "00:33"},
       {"line": "Kailanma'y 'di pababayaan", "time": "00:40"},
+      {"line": "Sa 'Yo lamang matatagpuan", "time": "00:50"},
+      {"line": "Sa 'Yo lamang", "time": "00:57"},
       {"line": "Mananatili sa Iyong lilim", "time": "01:05"},
       {"line": "At sasambahin Ka sa dakong lihim", "time": "01:12"},
       {"line": "Mananatili sa Iyong lilim", "time": "01:20"},
       {"line": "Nang masumpungan Ka sa dakong lihim", "time": "01:28"},
       {"line": "Panginoon, ang ngalan Mo", "time": "01:50"},
       {"line": "Ay kalinga at sandigan ko", "time": "01:57"},
-      {"line": "Ang pagpuri ko ay tanging sa 'Yo", "time": "02:45"},
-      {"line": "Sa 'Yo lamang iniaalay", "time": "02:52"},
-      {"line": "O, Panginoon, ang puso ko", "time": "03:00"},
-      {"line": "Sa 'Yo magpakailanman", "time": "03:08"}
+      {"line": "'Di magbabago, pangako Mo", "time": "02:05"},
+      {"line": "Salita Mo'y panghahawakan", "time": "02:12"},
+      {"line": "Sa 'Yo lamang matatagpuan", "time": "02:22"},
+      {"line": "Sa 'Yo lamang", "time": "02:29"},
+      {"line": "Mananatili sa Iyong lilim", "time": "02:37"},
+      {"line": "At sasambahin Ka sa dakong lihim", "time": "02:44"},
+      {"line": "Mananatili sa Iyong lilim", "time": "02:52"},
+      {"line": "Nang masumpungan Ka sa dakong lihim", "time": "03:00"},
+      {"line": "Ang pagpuri ko ay tanging sa 'Yo", "time": "03:15"},
+      {"line": "Sa 'Yo lamang iniaalay", "time": "03:22"},
+      {"line": "O, Panginoon, ang puso ko", "time": "03:30"},
+      {"line": "Sa 'Yo magpakailanman", "time": "03:38"},
+      {"line": "Ang pagpuri ko ay tanging sa 'Yo", "time": "03:48"},
+      {"line": "Sa 'Yo lamang iniaalay", "time": "03:55"},
+      {"line": "O, Panginoon, ang puso ko", "time": "04:03"},
+      {"line": "Sa 'Yo magpakailanman", "time": "04:11"},
+      {"line": "Mananatili sa Iyong lilim", "time": "04:25"},
+      {"line": "At sasambahin Ka sa dakong lihim", "time": "04:32"},
+      {"line": "Mananatili sa Iyong lilim", "time": "04:40"},
+      {"line": "Nang masumpungan Ka sa dakong lihim", "time": "04:48"}
     ]
   },
   {
@@ -51,7 +73,7 @@
     "artist": "Bisaya Christian Song",
     "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Dungog_Ug_Himaya(360p).mp4",
     "description": "A beautiful Cebuano worship song declaring honor and glory to God, expressing love and surrender to Him.",
-    "lyrics": "[Verse]\nDungog ug himaya\nSa langit ug sa yuta\nAng tanan O Dios\nKanimo lamang\nIkaw puno sa gugma\nNga walay katapusan\nO Dios awiton ko ang gugma Mo\n\n[Chorus]\nGinoong Dios\nMahigugmaon sa tanan\nTakos Kang daygon\nUg simbahon ug halaran\nAng tanan kong gugma\nGinatugyan ko Kanimo\nAng kinabuhi ko O Dios\nKanimo lamang",
+    "lyrics": "[Verse]\nDungog ug himaya\nSa langit ug sa yuta\nAng tanan O Dios\nKanimo lamang\nIkaw puno sa gugma\nNga walay katapusan\nO Dios awiton ko ang gugma Mo\n\n[Chorus]\nGinoong Dios\nMahigugmaon sa tanan\nTakos Kang daygon\nUg simbahon ug halaran\nAng tanan kong gugma\nGinatugyan ko Kanimo\nAng kinabuhi ko O Dios\nKanimo lamang\n\n[Chorus]\nGinoong Dios\nMahigugmaon sa tanan\nTakos Kang daygon\nUg simbahon ug halaran\nAng tanan kong gugma\nGinatugyan ko Kanimo\nAng kinabuhi ko O Dios\nKanimo lamang",
     "timestamps": [
       {"line": "Dungog ug himaya", "time": "00:00"},
       {"line": "Sa langit ug sa yuta", "time": "00:07"},
@@ -67,7 +89,15 @@
       {"line": "Ang tanan kong gugma", "time": "01:23"},
       {"line": "Ginatugyan ko Kanimo", "time": "01:30"},
       {"line": "Ang kinabuhi ko O Dios", "time": "01:37"},
-      {"line": "Kanimo lamang", "time": "01:44"}
+      {"line": "Kanimo lamang", "time": "01:44"},
+      {"line": "Ginoong Dios", "time": "02:00"},
+      {"line": "Mahigugmaon sa tanan", "time": "02:07"},
+      {"line": "Takos Kang daygon", "time": "02:14"},
+      {"line": "Ug simbahon ug halaran", "time": "02:21"},
+      {"line": "Ang tanan kong gugma", "time": "02:28"},
+      {"line": "Ginatugyan ko Kanimo", "time": "02:35"},
+      {"line": "Ang kinabuhi ko O Dios", "time": "02:42"},
+      {"line": "Kanimo lamang", "time": "02:49"}
     ]
   },
   {
@@ -76,14 +106,18 @@
     "artist": "Ruth Salas",
     "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/THROUGH_IT_ALL(144p).mp4",
     "description": "A Bisaya version of the classic worship song 'Through It All', declaring trust in God through every season of life.",
-    "lyrics": "[Verse]\nIkaw lamang Panginoon\nKaagapay saan man naroon\n\n[Chorus]\nSuliranin man ay dumating\nIkaw lamang oh Dios ang sasambahin\nPanginoon ko sa'Yo lamang\nMananatili kailan paman",
+    "lyrics": "[Verse]\nIkaw lamang Panginoon\nKaagapay saan man naroon\n\n[Chorus]\nSuliranin man ay dumating\nIkaw lamang oh Dios ang sasambahin\nPanginoon ko sa'Yo lamang\nMananatili kailan paman\n\n[Chorus]\nSuliranin man ay dumating\nIkaw lamang oh Dios ang sasambahin\nPanginoon ko sa'Yo lamang\nMananatili kailan paman",
     "timestamps": [
       {"line": "Ikaw lamang Panginoon", "time": "00:15"},
       {"line": "Kaagapay saan man naroon", "time": "00:22"},
       {"line": "Suliranin man ay dumating", "time": "00:45"},
       {"line": "Ikaw lamang oh Dios ang sasambahin", "time": "00:52"},
       {"line": "Panginoon ko sa'Yo lamang", "time": "00:59"},
-      {"line": "Mananatili kailan paman", "time": "01:06"}
+      {"line": "Mananatili kailan paman", "time": "01:06"},
+      {"line": "Suliranin man ay dumating", "time": "01:25"},
+      {"line": "Ikaw lamang oh Dios ang sasambahin", "time": "01:32"},
+      {"line": "Panginoon ko sa'Yo lamang", "time": "01:39"},
+      {"line": "Mananatili kailan paman", "time": "01:46"}
     ]
   },
   {
@@ -92,7 +126,7 @@
     "artist": "Christian Song",
     "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Kabutihan_ng_Diyos(360p).mp4",
     "description": "The Tagalog version of 'Goodness of God', declaring God's faithfulness and goodness throughout every season of life.",
-    "lyrics": "[Verse 1]\nMahal Kita\nWalang hanggan ang Iyong biyaya\nBuong buhay\nHawak Mo sa 'Yong kamay\nMula sa aking pagmulat\nHanggang sa paghimbing\nAawitin ko\nAng kabutihan ng Diyos\n\n[Chorus]\nIka'y tapat sa habambuhay\nIka'y mabuti magpakailanman\nHangga't ako ay nabubuhay\nAawitin ko ang kabutihan ng Diyos\n\n[Verse 2]\nAng tinig Mo\nSiyang gabay sa kasakitan\nAt nariyan Ka\nSa gitna ng kadiliman\nIka'y aking kaibigan\nO, Diyos aking Ama\nAt ako'y buhay\nSa kabutihan ng Diyos\n\n[Chorus]\nIka'y tapat sa habambuhay\nIka'y mabuti magpakailanman\nHangga't ako ay nabubuhay\nAawitin ko ang kabutihan ng Diyos\n\n[Bridge]\nKailanma'y 'di magbabago\nAng kabutihan Mo\nKailanma'y 'di magbabago\nAng kabutihan Mo\nBuong buhay ko\nIaalay ko lahat para sa 'Yo",
+    "lyrics": "[Verse 1]\nMahal Kita\nWalang hanggan ang Iyong biyaya\nBuong buhay\nHawak Mo sa 'Yong kamay\nMula sa aking pagmulat\nHanggang sa paghimbing\nAawitin ko\nAng kabutihan ng Diyos\n\n[Chorus]\nIka'y tapat sa habambuhay\nIka'y mabuti magpakailanman\nHangga't ako ay nabubuhay\nAawitin ko ang kabutihan ng Diyos\n\n[Verse 2]\nAng tinig Mo\nSiyang gabay sa kasakitan\nAt nariyan Ka\nSa gitna ng kadiliman\nIka'y aking kaibigan\nO, Diyos aking Ama\nAt ako'y buhay\nSa kabutihan ng Diyos\n\n[Chorus]\nIka'y tapat sa habambuhay\nIka'y mabuti magpakailanman\nHangga't ako ay nabubuhay\nAawitin ko ang kabutihan ng Diyos\n\n[Bridge]\nKailanma'y 'di magbabago\nAng kabutihan Mo\nKailanma'y 'di magbabago\nAng kabutihan Mo\nBuong buhay ko\nIaalay ko lahat para sa 'Yo\n\n[Bridge]\nKailanma'y 'di magbabago\nAng kabutihan Mo\nKailanma'y 'di magbabago\nAng kabutihan Mo\nBuong buhay ko\nIaalay ko lahat para sa 'Yo\n\n[Chorus]\nIka'y tapat sa habambuhay\nIka'y mabuti magpakailanman\nHangga't ako ay nabubuhay\nAawitin ko ang kabutihan ng Diyos",
     "timestamps": [
       {"line": "Mahal Kita", "time": "00:00"},
       {"line": "Walang hanggan ang Iyong biyaya", "time": "00:08"},
@@ -123,7 +157,17 @@
       {"line": "Kailanma'y 'di magbabago", "time": "03:46"},
       {"line": "Ang kabutihan Mo", "time": "03:54"},
       {"line": "Buong buhay ko", "time": "04:02"},
-      {"line": "Iaalay ko lahat para sa 'Yo", "time": "04:10"}
+      {"line": "Iaalay ko lahat para sa 'Yo", "time": "04:10"},
+      {"line": "Kailanma'y 'di magbabago", "time": "04:20"},
+      {"line": "Ang kabutihan Mo", "time": "04:28"},
+      {"line": "Kailanma'y 'di magbabago", "time": "04:36"},
+      {"line": "Ang kabutihan Mo", "time": "04:44"},
+      {"line": "Buong buhay ko", "time": "04:52"},
+      {"line": "Iaalay ko lahat para sa 'Yo", "time": "05:00"},
+      {"line": "Ika'y tapat sa habambuhay", "time": "05:15"},
+      {"line": "Ika'y mabuti magpakailanman", "time": "05:23"},
+      {"line": "Hangga't ako ay nabubuhay", "time": "05:31"},
+      {"line": "Aawitin ko ang kabutihan ng Diyos", "time": "05:39"}
     ]
   },
   {
@@ -132,7 +176,7 @@
     "artist": "Unknown Artist",
     "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Tayoy_ Magpasalamat.mp4",
     "description": "The Tagalog version of 'Give Thanks', a song of gratitude for God's gift of Jesus Christ.",
-    "lyrics": "[Verse 1]\nTayo ay taos pusong\nSa Diyos magpasalamat\nDahil ibinigay Niya si Hesukristo\n\n[Verse 2]\nTunay ang mahina'y may lakas\nAng mahirap mayaman\nNang dahil sa mga gawa ng Diyos\n\n[Repeat Verse 1]\nTayo ay taos pusong\nSa Diyos magpasalamat\nDahil ibinigay Niya si Hesukristo\n\n[Repeat Verse 2]\nTunay ang mahina'y may lakas\nAng mahirap mayaman\nNang dahil sa mga gawa ng Diyos\nNang dahil sa mga gawa ng Diyos sa'tin",
+    "lyrics": "[Verse 1]\nTayo ay taos pusong\nSa Diyos magpasalamat\nDahil ibinigay Niya si Hesukristo\n\n[Verse 2]\nTunay ang mahina'y may lakas\nAng mahirap mayaman\nNang dahil sa mga gawa ng Diyos\n\n[Verse 1]\nTayo ay taos pusong\nSa Diyos magpasalamat\nDahil ibinigay Niya si Hesukristo\n\n[Verse 2]\nTunay ang mahina'y may lakas\nAng mahirap mayaman\nNang dahil sa mga gawa ng Diyos\nNang dahil sa mga gawa ng Diyos sa'tin\n\n[Verse 1]\nTayo ay taos pusong\nSa Diyos magpasalamat\nDahil ibinigay Niya si Hesukristo\n\n[Verse 2]\nTunay ang mahina'y may lakas\nAng mahirap mayaman\nNang dahil sa mga gawa ng Diyos\nNang dahil sa mga gawa ng Diyos sa'tin",
     "timestamps": [
       {"line": "Tayo ay taos pusong", "time": "00:00"},
       {"line": "Sa Diyos magpasalamat", "time": "00:07"},
@@ -146,7 +190,14 @@
       {"line": "Tunay ang mahina'y may lakas", "time": "01:24"},
       {"line": "Ang mahirap mayaman", "time": "01:31"},
       {"line": "Nang dahil sa mga gawa ng Diyos", "time": "01:38"},
-      {"line": "Nang dahil sa mga gawa ng Diyos sa'tin", "time": "01:45"}
+      {"line": "Nang dahil sa mga gawa ng Diyos sa'tin", "time": "01:45"},
+      {"line": "Tayo ay taos pusong", "time": "02:00"},
+      {"line": "Sa Diyos magpasalamat", "time": "02:07"},
+      {"line": "Dahil ibinigay Niya si Hesukristo", "time": "02:14"},
+      {"line": "Tunay ang mahina'y may lakas", "time": "02:28"},
+      {"line": "Ang mahirap mayaman", "time": "02:35"},
+      {"line": "Nang dahil sa mga gawa ng Diyos", "time": "02:42"},
+      {"line": "Nang dahil sa mga gawa ng Diyos sa'tin", "time": "02:49"}
     ]
   },
   {
@@ -155,7 +206,7 @@
     "artist": "Unknown Artist",
     "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/MAGPATULOY_KA.mp4",
     "description": "A Filipino worship song about persevering in faith, holding on to God's hand through trials, and continuing to serve Him because of His salvation.",
-    "lyrics": "[Verse 1]\nNang ako ay naligtas\nBuhay o'y naging maligaya\nSapagkat ang aking kaluluwa\nAy sa langit mapupunta\nAt nang pagsubok ay dumating\nKay Kristo ako'y lumapit\nDahil Siya'y aking kanlungan\nSa bagyong nararanasan\n\n[Chorus]\nSiya ang ating patnubay\nAt ang ating gabay\nAt ako ay hahawak\nSa Kanyang mga kamay\nMagpatuloy mananatili\nNa Siya'y paglingkuran\nSapagkat ako'y Kanyang iniligtas\n(Iniligtas)\n\n[Verse 2]\nMinsan ay ating naiisip\nSa ating mga gawa\nAy wala itong kabuluhan\nDahil 'di nagbubunga\nNgunit sa harap ng Dios\nTayo'y sumasagana\nBasta tayo'y magpatuloy\nAt magtiwala sa Kanya\n\n[Chorus]\nSiya ang ating patnubay\nAt ang ating gabay\nAt ako ay hahawak\nSa Kanyang mga kamay\nMagpatuloy mananatili\nNa Siya'y paglingkuran\nSapagkat ako'y Kanyang iniligtas\n(Iniligtas)\n\n[Outro]\nMagpatuloy ka!",
+    "lyrics": "[Verse 1]\nNang ako ay naligtas\nBuhay o'y naging maligaya\nSapagkat ang aking kaluluwa\nAy sa langit mapupunta\nAt nang pagsubok ay dumating\nKay Kristo ako'y lumapit\nDahil Siya'y aking kanlungan\nSa bagyong nararanasan\n\n[Chorus]\nSiya ang ating patnubay\nAt ang ating gabay\nAt ako ay hahawak\nSa Kanyang mga kamay\nMagpatuloy mananatili\nNa Siya'y paglingkuran\nSapagkat ako'y Kanyang iniligtas\n(Iniligtas)\n\n[Verse 2]\nMinsan ay ating naiisip\nSa ating mga gawa\nAy wala itong kabuluhan\nDahil 'di nagbubunga\nNgunit sa harap ng Dios\nTayo'y sumasagana\nBasta tayo'y magpatuloy\nAt magtiwala sa Kanya\n\n[Chorus]\nSiya ang ating patnubay\nAt ang ating gabay\nAt ako ay hahawak\nSa Kanyang mga kamay\nMagpatuloy mananatili\nNa Siya'y paglingkuran\nSapagkat ako'y Kanyang iniligtas\n(Iniligtas)\n\n[Chorus]\nSiya ang ating patnubay\nAt ang ating gabay\nAt ako ay hahawak\nSa Kanyang mga kamay\nMagpatuloy mananatili\nNa Siya'y paglingkuran\nSapagkat ako'y Kanyang iniligtas\n(Iniligtas)\n\n[Outro]\nMagpatuloy ka!",
     "timestamps": [
       {"line": "Nang ako ay naligtas", "time": "00:00"},
       {"line": "Buhay o'y naging maligaya", "time": "00:07"},
@@ -187,7 +238,14 @@
       {"line": "Magpatuloy mananatili", "time": "03:28"},
       {"line": "Na Siya'y paglingkuran", "time": "03:35"},
       {"line": "Sapagkat ako'y Kanyang iniligtas", "time": "03:42"},
-      {"line": "Magpatuloy ka!", "time": "03:55"}
+      {"line": "Siya ang ating patnubay", "time": "04:00"},
+      {"line": "At ang ating gabay", "time": "04:07"},
+      {"line": "At ako ay hahawak", "time": "04:14"},
+      {"line": "Sa Kanyang mga kamay", "time": "04:21"},
+      {"line": "Magpatuloy mananatili", "time": "04:28"},
+      {"line": "Na Siya'y paglingkuran", "time": "04:35"},
+      {"line": "Sapagkat ako'y Kanyang iniligtas", "time": "04:42"},
+      {"line": "Magpatuloy ka!", "time": "04:55"}
     ]
   },
   {
@@ -196,7 +254,7 @@
     "artist": "Musikatha",
     "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Wala_Kang_Katulad.mp4",
     "description": "A Filipino worship song declaring the incomparable greatness of God, expressing that no song, poem, or words can fully describe His glory and goodness.",
-    "lyrics": "[Verse]\nAwitin ko man\nLahat ng awit sa mundo\nAy di kayang ilarawan\nAng Kadakilaan Mo\n\n[Pre-Chorus]\nKulang ang lahat ng tula\nKulang maging mga salita\nUpang ihayag\nAng kabutihan Mo\n\n[Chorus]\nWala kang katulad\nWala nang hihigit sa 'Yo\nWala nang papantay sa 'Yo\nIkaw ang Diyos noon pa man\nMaging ngayon at kailanman\nSa habang panahon\n\n[Outro]\nSa habang panahon\nSa habang panahon",
+    "lyrics": "[Verse]\nAwitin ko man\nLahat ng awit sa mundo\nAy di kayang ilarawan\nAng Kadakilaan Mo\n\n[Pre-Chorus]\nKulang ang lahat ng tula\nKulang maging mga salita\nUpang ihayag\nAng kabutihan Mo\n\n[Chorus]\nWala kang katulad\nWala nang hihigit sa 'Yo\nWala nang papantay sa 'Yo\nIkaw ang Diyos noon pa man\nMaging ngayon at kailanman\nSa habang panahon\n\n[Chorus]\nWala kang katulad\nWala nang hihigit sa 'Yo\nWala nang papantay sa 'Yo\nIkaw ang Diyos noon pa man\nMaging ngayon at kailanman\nSa habang panahon\n\n[Outro]\nSa habang panahon\nSa habang panahon\nSa habang panahon\nSa habang panahon",
     "timestamps": [
       {"line": "Awitin ko man", "time": "00:00"},
       {"line": "Lahat ng awit sa mundo", "time": "00:07"},
@@ -212,8 +270,16 @@
       {"line": "Ikaw ang Diyos noon pa man", "time": "01:27"},
       {"line": "Maging ngayon at kailanman", "time": "01:34"},
       {"line": "Sa habang panahon", "time": "01:42"},
-      {"line": "Sa habang panahon", "time": "01:55"},
-      {"line": "Sa habang panahon", "time": "02:03"}
+      {"line": "Wala kang katulad", "time": "01:55"},
+      {"line": "Wala nang hihigit sa 'Yo", "time": "02:02"},
+      {"line": "Wala nang papantay sa 'Yo", "time": "02:09"},
+      {"line": "Ikaw ang Diyos noon pa man", "time": "02:17"},
+      {"line": "Maging ngayon at kailanman", "time": "02:24"},
+      {"line": "Sa habang panahon", "time": "02:32"},
+      {"line": "Sa habang panahon", "time": "02:45"},
+      {"line": "Sa habang panahon", "time": "02:53"},
+      {"line": "Sa habang panahon", "time": "03:01"},
+      {"line": "Sa habang panahon", "time": "03:09"}
     ]
   },
   {
@@ -222,7 +288,7 @@
     "artist": "Luis Baldomaro / Rommel Guevarra",
     "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Kay_Buti-buti_Mo_Panginoon.mp4",
     "description": "A Filipino worship song declaring the goodness and faithfulness of God, praising Him for His unchanging love and endless mercy.",
-    "lyrics": "[Verse]\nKay buti-buti Mo, Panginoon\nSa lahat ng oras, sa bawat araw\nIka'y laging tapat kung magmahal\nAng Iyong kaawaan ay magpawalang-hanggan\n\n[Chorus]\nPinupuri, sinasamba kita\nDakilang Diyos at Panginoon\nTunay ngang Ika'y walang katulad\nTunay ngang Ika'y di nagbabago\nMabuting Diyos na sa ami'y nagmamahal\n\n[Verse]\nKay buti-buti Mo, Panginoon\nSa lahat ng oras, sa bawat araw\nIka'y laging tapat kung magmahal\nAng Iyong kaawaan ay magpawalang-hanggan\n\n[Chorus]\nPinupuri, sinasamba kita\nDakilang Diyos at Panginoon\nTunay ngang Ika'y walang katulad\nTunay ngang Ika'y di nagbabago\nMabuting Diyos na sa ami'y nagmamahal\n\n[Outro]\nMabuting Diyos na sa ami'y nagmamahal",
+    "lyrics": "[Verse]\nKay buti-buti Mo, Panginoon\nSa lahat ng oras, sa bawat araw\nIka'y laging tapat kung magmahal\nAng Iyong kaawaan ay magpawalang-hanggan\n\n[Chorus]\nPinupuri, sinasamba kita\nDakilang Diyos at Panginoon\nTunay ngang Ika'y walang katulad\nTunay ngang Ika'y di nagbabago\nMabuting Diyos na sa ami'y nagmamahal\n\n[Verse]\nKay buti-buti Mo, Panginoon\nSa lahat ng oras, sa bawat araw\nIka'y laging tapat kung magmahal\nAng Iyong kaawaan ay magpawalang-hanggan\n\n[Chorus]\nPinupuri, sinasamba kita\nDakilang Diyos at Panginoon\nTunay ngang Ika'y walang katulad\nTunay ngang Ika'y di nagbabago\nMabuting Diyos na sa ami'y nagmamahal\n\n[Chorus]\nPinupuri, sinasamba kita\nDakilang Diyos at Panginoon\nTunay ngang Ika'y walang katulad\nTunay ngang Ika'y di nagbabago\nMabuting Diyos na sa ami'y nagmamahal\n\n[Outro]\nMabuting Diyos na sa ami'y nagmamahal",
     "timestamps": [
       {"line": "Kay buti-buti Mo, Panginoon", "time": "00:00"},
       {"line": "Sa lahat ng oras, sa bawat araw", "time": "00:08"},
@@ -242,7 +308,12 @@
       {"line": "Tunay ngang Ika'y walang katulad", "time": "02:13"},
       {"line": "Tunay ngang Ika'y di nagbabago", "time": "02:21"},
       {"line": "Mabuting Diyos na sa ami'y nagmamahal", "time": "02:29"},
-      {"line": "Mabuting Diyos na sa ami'y nagmamahal", "time": "02:45"}
+      {"line": "Pinupuri, sinasamba kita", "time": "02:45"},
+      {"line": "Dakilang Diyos at Panginoon", "time": "02:52"},
+      {"line": "Tunay ngang Ika'y walang katulad", "time": "03:00"},
+      {"line": "Tunay ngang Ika'y di nagbabago", "time": "03:08"},
+      {"line": "Mabuting Diyos na sa ami'y nagmamahal", "time": "03:16"},
+      {"line": "Mabuting Diyos na sa ami'y nagmamahal", "time": "03:30"}
     ]
   },
   {
@@ -251,7 +322,7 @@
     "artist": "Hope Filipino Worship",
     "remoteMp4Url": "https://raw.githubusercontent.com/jethjeth-design/my-song/main/Natagpuan.mp4",
     "description": "A Filipino worship song about being found by God's great love, freed at the cross, and transformed by His presence.",
-    "lyrics": "[Verse 1]\nAng tinig Mo ay aking hanap-hanap\nSa gitna ng bawat takot at paghihirap\nSa kabila ng aking pagkukulang\nKatapatan Mo, O Diyos, tanging laan\n\n[Pre-Chorus]\nSa puso at damdamin, Ika'y mananatili\nWalang-hanggan ang alay Mong pag-ibig\n\n[Chorus]\nNatagpuan ng 'Yong pag-ibig na dakila\nDoon sa krus, ako'y Iyong pinalaya\nHesus, ako'y aawit ng walang-hanggang pagpupuri\nAng puso ko'y sa 'Yo iaalay, ooh\n\n[Verse 2]\nPanginoon, Ikaw ang kaagapay\nKabutihan Mo sa 'ki'y 'di nagkukulang\nPanginoon, Ikaw lang ang kailangan\nMagpakailanman, sa 'Yo ako'y mananahan\n\n[Bridge]\nHangad ko lang ay mamalagi sa presensiya Mo\nNatagpuan, ako'y binago ng pag-ibig Mo\nHangad ko lang ay mamalagi sa presensiya Mo\nLuwalhatiin ang Pangalan Mo",
+    "lyrics": "[Verse 1]\nAng tinig Mo ay aking hanap-hanap\nSa gitna ng bawat takot at paghihirap\nSa kabila ng aking pagkukulang\nKatapatan Mo, O Diyos, tanging laan\n\n[Pre-Chorus]\nSa puso at damdamin, Ika'y mananatili\nWalang-hanggan ang alay Mong pag-ibig\n\n[Chorus]\nNatagpuan ng 'Yong pag-ibig na dakila\nDoon sa krus, ako'y Iyong pinalaya\nHesus, ako'y aawit ng walang-hanggang pagpupuri\nAng puso ko'y sa 'Yo iaalay, ooh\n\n[Verse 2]\nPanginoon, Ikaw ang kaagapay\nKabutihan Mo sa 'ki'y 'di nagkukulang\nPanginoon, Ikaw lang ang kailangan\nMagpakailanman, sa 'Yo ako'y mananahan\n\n[Chorus]\nNatagpuan ng 'Yong pag-ibig na dakila\nDoon sa krus, ako'y Iyong pinalaya\nHesus, ako'y aawit ng walang-hanggang pagpupuri\nAng puso ko'y sa 'Yo iaalay, ooh\n\n[Bridge]\nHangad ko lang ay mamalagi sa presensiya Mo\nNatagpuan, ako'y binago ng pag-ibig Mo\nHangad ko lang ay mamalagi sa presensiya Mo\nLuwalhatiin ang Pangalan Mo\n\n[Bridge]\nHangad ko lang ay mamalagi sa presensiya Mo\nNatagpuan, ako'y binago ng pag-ibig Mo\nHangad ko lang ay mamalagi sa presensiya Mo\nLuwalhatiin ang Pangalan Mo\n\n[Chorus]\nNatagpuan ng 'Yong pag-ibig na dakila\nDoon sa krus, ako'y Iyong pinalaya\nHesus, ako'y aawit ng walang-hanggang pagpupuri\nAng puso ko'y sa 'Yo iaalay, ooh",
     "timestamps": [
       {"line": "Ang tinig Mo ay aking hanap-hanap", "time": "00:15"},
       {"line": "Sa gitna ng bawat takot at paghihirap", "time": "00:23"},
@@ -267,10 +338,22 @@
       {"line": "Kabutihan Mo sa 'ki'y 'di nagkukulang", "time": "02:08"},
       {"line": "Panginoon, Ikaw lang ang kailangan", "time": "02:16"},
       {"line": "Magpakailanman, sa 'Yo ako'y mananahan", "time": "02:24"},
-      {"line": "Hangad ko lang ay mamalagi sa presensiya Mo", "time": "02:45"},
-      {"line": "Natagpuan, ako'y binago ng pag-ibig Mo", "time": "02:53"},
-      {"line": "Hangad ko lang ay mamalagi sa presensiya Mo", "time": "03:01"},
-      {"line": "Luwalhatiin ang Pangalan Mo", "time": "03:09"}
+      {"line": "Natagpuan ng 'Yong pag-ibig na dakila", "time": "02:45"},
+      {"line": "Doon sa krus, ako'y Iyong pinalaya", "time": "02:53"},
+      {"line": "Hesus, ako'y aawit ng walang-hanggang pagpupuri", "time": "03:01"},
+      {"line": "Ang puso ko'y sa 'Yo iaalay, ooh", "time": "03:09"},
+      {"line": "Hangad ko lang ay mamalagi sa presensiya Mo", "time": "03:25"},
+      {"line": "Natagpuan, ako'y binago ng pag-ibig Mo", "time": "03:33"},
+      {"line": "Hangad ko lang ay mamalagi sa presensiya Mo", "time": "03:41"},
+      {"line": "Luwalhatiin ang Pangalan Mo", "time": "03:49"},
+      {"line": "Hangad ko lang ay mamalagi sa presensiya Mo", "time": "04:00"},
+      {"line": "Natagpuan, ako'y binago ng pag-ibig Mo", "time": "04:08"},
+      {"line": "Hangad ko lang ay mamalagi sa presensiya Mo", "time": "04:16"},
+      {"line": "Luwalhatiin ang Pangalan Mo", "time": "04:24"},
+      {"line": "Natagpuan ng 'Yong pag-ibig na dakila", "time": "04:40"},
+      {"line": "Doon sa krus, ako'y Iyong pinalaya", "time": "04:48"},
+      {"line": "Hesus, ako'y aawit ng walang-hanggang pagpupuri", "time": "04:56"},
+      {"line": "Ang puso ko'y sa 'Yo iaalay, ooh", "time": "05:04"}
     ]
   }
 ]
